@@ -1,3 +1,11 @@
+you can find the website at:https://ayuubakb.github.io/shoppingCart-react/index.html 😃
+
+❗❗ After going to the link above,if the page is partly blank  please click on the home icon to fix the problem.
+
+➡️ the git-pages does not support 'React Routers' for client-side routing.
+This is because when there is a fresh page load for a url like http://user.github.io/todomvc/todos/42, where /todos/42 is a frontend route, the GitHub Pages server returns 404 because it knows nothing of /todos/42. If you want to add a router to a project hosted on GitHub Pages,
+--------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
